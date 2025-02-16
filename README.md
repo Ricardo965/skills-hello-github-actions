@@ -2,7 +2,7 @@
 
 # Hello GitHub Actions
 
-_Create and run a GitHub Actions workflow._
+_Time to test your workflow_
 
 </header>
 
